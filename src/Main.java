@@ -4,9 +4,6 @@ import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) {
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.print("Nhập n: ");
-//        int n= scanner.nextInt();
         Stack<Integer> st = new Stack();
         Scanner scanner = new Scanner(System.in);
         int n = 0;
